@@ -1,2 +1,4 @@
 # Notebooks
-Notebooks for Fast AI and docker files.
+Notebooks for Fast AI, notebooks to go along with other files.
+
+
